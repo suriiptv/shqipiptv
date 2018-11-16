@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:0,Tvsh
+http://188.138.1.82:8081/streamrtmp/tvsh/playlist.m3u8
+#EXTINF:0,Tv Klan
+http://85.25.218.196:8081/streamrtmp/tvklan/playlist.m3u8
+#EXTINF:0,Klan Plus
+http://188.138.1.82:8081/streamrtmp/klanplus/playlist.m3u8
+#EXTINF:0,Top Channel
+http://188.138.9.87:8081/streamrtmp/topchannel/playlist.m3u8
+#EXTINF:0,Vizion Plus
+http://188.138.9.87:8081/streamrtmp/vizionplus/playlist.m3u8
+#EXTINF:0,Alb film
+http://str105mb.setplex.net:1935/str2iosmd5/alb_film/playlist.m3u8
+#EXTINF:0,News24
+http://85.25.218.196:8081/streamrtmp/news24/playlist.m3u8
+#EXTINF:0,Super Sonic
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:0,STV Folk
+http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+#EXTINF:0,A1 Report
+rtmp://66.55.93.204/livepkgr/a1stream?adbe-live-event=a1report
+#EXTINF:0,Film Thriller
+http://188.138.1.82:8081/streamrtmp/thriller/playlist.m3u8
+#EXTINF:0,Digi Gold
+http://188.138.1.82:8081/streamrtmp/gold/playlist.m3u8
+#EXTINF:0,Digi Gold 1
+http://188.138.9.87:8081/streamrtmp/gold1/playlist.m3u8
+#EXTINF:0,Digi Gold 2
+http://188.138.9.87:8081/streamrtmp/gold2/playlist.m3u8
+#EXTINF:0,Film Hits
+http://85.25.218.196:8081/streamrtmp/hits+/playlist.m3u8
+#EXTINF:0,Film Aksion
+http://85.25.218.196:8081/streamrtmp/aksion/playlist.m3u8
+#EXTINF:0,Film Komedi
+http://85.25.218.196:8081/streamrtmp/komedi/playlist.m3u8
+#EXTINF:0,Film Autor
+http://85.25.218.196:8081/streamrtmp/filmautor/playlist.m3u8
+#EXTINF:0,PLUS HD
+http://188.138.1.82:8081/streamrtmp/plushd/playlist.m3u8
+#EXTINF:0,Stinet
+http://85.25.218.196:8081/streamrtmp/stinet/playlist.m3u8
+#EXTINF:0,T HD
+http://188.138.1.82:8081/streamrtmp/thd/playlist.m3u8
+#EXTINF:0,Film 1 HD
+http://188.138.1.82:8081/streamrtmp/film1hd/playlist.m3u8
+#EXTINF:0,Film 2 HD
+http://188.138.1.82:8081/streamrtmp/filmhd2/playlist.m3u8
+#EXTINF:0,Junior HD
+http://85.25.218.196:8081/streamrtmp/junior/playlist.m3u8
+#EXTINF:0,Beng Beng
+http://188.138.1.82:8081/streamrtmp/BengBeng/playlist.m3u8
+#EXTINF:0,Cufo Tv
+http://188.138.1.82:8081/streamrtmp/cufo/playlist.m3u8
+#EXTINF:0,Explorer Natyre
+http://85.25.218.196:8081/streamrtmp/expnatyre/playlist.m3u8
+#EXTINF:0,Explorer Shkenc
+http://85.25.218.196:8081/streamrtmp/expshkence/playlist.m3u8
+#EXTINF:0,Top News
+http://188.138.1.82:8081/streamrtmp/topnews/playlist.m3u8
+#EXTINF:0,Super Sport 1
+http://85.25.218.196:8081/streamrtmp/ss1/playlist.m3u8
+#EXTINF:0,Super Sport 2
+http://188.138.1.82:8081/streamrtmp/ss2/playlist.m3u8
+#EXTINF:0,Super Sport 3
+http://188.138.1.82:8081/streamrtmp/ss3/playlist.m3u8
+#EXTINF:0,Super Sport 4
+http://188.138.1.82:8081/streamrtmp/ss4/playlist.m3u8
