@@ -2,7 +2,7 @@
 #EXTINF:0,Tvsh
 http://188.138.1.82:8081/streamrtmp/tvsh/playlist.m3u8
 #EXTINF:0,Tv Klan
-http://85.25.218.196:8081/streamrtmp/tvklan/playlist.m3u8
+http://188.138.1.82:8081/streamrtmp/tvklan/playlist.m3u8
 #EXTINF:0,Klan Plus
 http://188.138.1.82:8081/streamrtmp/klanplus/playlist.m3u8
 #EXTINF:0,Top Channel
@@ -65,3 +65,18 @@ http://188.138.1.82:8081/streamrtmp/ss2/playlist.m3u8
 http://188.138.1.82:8081/streamrtmp/ss3/playlist.m3u8
 #EXTINF:0,Super Sport 4
 http://188.138.1.82:8081/streamrtmp/ss4/playlist.m3u8
+#EXTINF:0,NEWS 24 HD
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?nimblesessionid=33742766
+#EXTINF:0,RTK HD
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w548123114
+#EXTINF:0,Tring Tring
+http://85.25.218.196:8081/streamrtmp/tringtring/playlist.m3u8
+#EXTINF:0,Jolly
+http://188.138.1.82:8081/streamrtmp/jollyhd/playlist.m3u8
+#EXTINF:0,Tring Max
+http://188.138.1.82:8081/streamrtmp/tringmax/playlist.m3u8
+#EXTINF:0,Tring Action
+http://188.138.1.82:8081/streamrtmp/tringmax/playlist.m3u8
+#EXTINF:0,Tring Shqip
+http://188.138.1.82:8081/streamrtmp/tringshqip/playlist.m3u8
+
