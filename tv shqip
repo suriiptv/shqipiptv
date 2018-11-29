@@ -65,8 +65,8 @@ http://188.138.1.82:8081/streamrtmp/ss2/playlist.m3u8
 http://188.138.1.82:8081/streamrtmp/ss3/playlist.m3u8
 #EXTINF:0,Super Sport 4
 http://188.138.1.82:8081/streamrtmp/ss4/playlist.m3u8
-#EXTINF:0,NEWS 24 HD
-http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?nimblesessionid=33742766
+#EXTINF:0,ORA NEWS HD
+http://145.239.2.153:8081/oranews/live/chunks.m3u8?nimblesessionid=83517145
 #EXTINF:0,RTK HD
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/chunklist_w548123114
 #EXTINF:0,Tring Tring
